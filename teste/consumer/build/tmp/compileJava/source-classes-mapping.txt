@@ -1,0 +1,34 @@
+com/compasso/uol/resources/ProductResource.java
+ com.compasso.uol.resources.ProductResource
+com/compasso/uol/models/Product.java
+ com.compasso.uol.models.Product
+com/compasso/uol/utils/exceptions/ResourceExceptionHandler.java
+ com.compasso.uol.utils.exceptions.ResourceExceptionHandler
+com/compasso/uol/utils/exceptions/ValidationError.java
+ com.compasso.uol.utils.exceptions.ValidationError
+com/compasso/uol/repositories/ProductRepository.java
+ com.compasso.uol.repositories.ProductRepository
+com/compasso/uol/repositories/specs/products/ProductSpecification.java
+ com.compasso.uol.repositories.specs.products.ProductSpecification
+com/compasso/uol/configs/SwaggerConfig.java
+ com.compasso.uol.configs.SwaggerConfig
+com/compasso/uol/utils/exceptions/FieldMessage.java
+ com.compasso.uol.utils.exceptions.FieldMessage
+com/compasso/uol/Application.java
+ com.compasso.uol.Application
+com/compasso/uol/utils/exceptions/ObjectNotFoundException.java
+ com.compasso.uol.utils.exceptions.ObjectNotFoundException
+com/compasso/uol/utils/sequenceGeneratorId/SequenceGeneratorId.java
+ com.compasso.uol.utils.sequenceGeneratorId.SequenceGeneratorId
+com/compasso/uol/utils/exceptions/StandardError.java
+ com.compasso.uol.utils.exceptions.StandardError
+com/compasso/uol/utils/sequenceGeneratorId/DbSequence.java
+ com.compasso.uol.utils.sequenceGeneratorId.DbSequence
+com/compasso/uol/services/ProductService.java
+ com.compasso.uol.services.ProductService
+com/compasso/uol/models/dto/ProductDTO.java
+ com.compasso.uol.models.dto.ProductDTO
+com/compasso/uol/configs/ConsumerRabbitConfig.java
+ com.compasso.uol.configs.ConsumerRabbitConfig
+com/compasso/uol/utils/exceptions/DataIntegrityException.java
+ com.compasso.uol.utils.exceptions.DataIntegrityException

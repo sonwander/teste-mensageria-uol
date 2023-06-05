@@ -1,0 +1,2 @@
+com/compasso/uol/resources/ProductResourceTest.java
+ com.compasso.uol.resources.ProductResourceTest
